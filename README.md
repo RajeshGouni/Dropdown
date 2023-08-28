@@ -26,11 +26,6 @@ This is a React Dropdown Project which is built using Reactjs ,CSS  , Bootstrap.
 <br/>
 <br/>
 
-### 💻 Screens
-
-![Screenshot (234)](https://user-images.githubusercontent.com/102378038/228718464-f724950d-6910-4845-aa9c-67ec59af155a.png)
-
-
 
 
 # Getting Started with Create React App
